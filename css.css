@@ -17,6 +17,10 @@ background-repeat:no-repeat;
 background-position:5%,0%;
 margin-top: 10px;}
 
+tr:hover,tr:active
+{
+background-color:#D2E9FF;
+}
 
 
 /* 页尾 */
